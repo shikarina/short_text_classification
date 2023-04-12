@@ -36,7 +36,7 @@ The corresponding workflow is depicted in Fig. 1 below.
 
 <img src=SI1_Fig.png  width="60%" height="30%">
 
- *Fig.1. Text classification workflow.
+ **Fig.1. Text classification workflow.**
 
 In general, a text can refer to a whole document, or to a section, paragraph, or sentence within a document. Here, we are analysing 
 Twitter data and so we work with tweets. On the Twitter microblogging platform, tweets are the name given to short texts that may contain one or 
