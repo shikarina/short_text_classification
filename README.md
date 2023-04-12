@@ -34,7 +34,8 @@ which, hopefully, matches
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{100}&space;\small&space;y" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{100}&space;\small&space;y" title="\small y" /></a>. 
 The corresponding workflow is depicted in Fig. 1 below.
 
-![](SI1_Fig.png)
+<img src=SI1_Fig.png  width="60%" height="30%">
+
  *Fig.1. Text classification workflow.
 
 In general, a text can refer to a whole document, or to a section, paragraph, or sentence within a document. Here, we are analysing 
