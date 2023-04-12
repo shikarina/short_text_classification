@@ -54,14 +54,14 @@ which is referred to as a feature vector, consisting of measurable properties of
 
 ## Repository structure
 The pository consists of the following folders:
-- **data** - datasets with various degrees of imbalance used to produce the article results
-- **models** - trained models for various degrees of imbalance used to produce the article results
-- **notebooks** - collection of Jupyter notebooks with code reproducing the article results
-  * **testing** - notebooks with codes for testing the classifiers performance
-  * **training** - notebooks with codes for training the classifiers
-  * **tuning** - notebooks with codes for tuning the classifier parameters to optimize their performance
-- **results** - figures and tables from the article
-- **utils** - utility Python scripts
+- `data` - datasets with various degrees of imbalance used to produce the article results
+- `models` - trained models for various degrees of imbalance used to produce the article results
+- `notebooks` - collection of Jupyter notebooks with code reproducing the article results
+  * `testing` - notebooks with codes for testing the classifiers performance
+  * `training` - notebooks with codes for training the classifiers
+  * `tuning` - notebooks with codes for tuning the classifier parameters to optimize their performance
+- `results` - figures and tables from the article
+- `utils` - utility Python scripts
 
 N.b., the seed for Tensorflow implementations was not fixed beforehand, hence re-running the neural-network classifiers might yield results diffent from those reported in the article.
 
